@@ -533,7 +533,7 @@ This framework is provided for educational and authorized security testing purpo
 - Not use for malicious purposes
 - Credit OWASP and contributors
 
-See [LICENSE](LICENSE) for full terms.
+See [LICENSE](https://github.com/ahmadjavedaj09/VulnCraft/blob/main/Vulncraft/LICENSE) for full terms.
 
 
 
