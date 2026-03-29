@@ -2,8 +2,10 @@
 
 
 **Educational Payload Generator Framework**
+<img width="1280" height="640" alt="VulnCraft_Thumbnail" src="https://github.com/user-attachments/assets/eea61ee1-4adb-4669-b5ef-81d5d3002c43" />
 
-Developed by **ITSOLERA – Theta Team** | Offensive Security & Penetration Testing Internship
+
+Developed by **Ahmad Javed | ITSOLERA – Theta Team** | Offensive Security & Penetration Testing Internship
 
 
 </div>
@@ -543,7 +545,7 @@ See [LICENSE](LICENSE) for full terms.
 
 <div align="center">
 
-**Made by ITSOLERA Theta Team**
+**Made by Ahmad Javed | ITSOLERA Theta Team**
 
 ⭐ Star this repository if you find it helpful!
 
